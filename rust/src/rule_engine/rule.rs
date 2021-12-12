@@ -1,0 +1,3 @@
+struct Rule {
+    hypothesis: Atom
+}
